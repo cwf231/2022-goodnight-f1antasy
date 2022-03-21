@@ -1,0 +1,21 @@
+,OverallPick,TeamPick,Team,DriverID,LastName,FirstName,Car,Nationality
+2,1,1,Ham jam and the Gas man,hamilton,Hamilton,Lewis,mercedes,British
+18,2,1,Maximum Wildcard,max_verstappen,Verstappen,Max,red_bull,Dutch
+14,3,1,Billy Deez Nutz,norris,Norris,Lando,mclaren,British
+3,4,1,Ph1 Driver: Gergio Vetomacher,russell,Russell,George,mercedes,British
+17,5,2,Ph1 Driver: Gergio Vetomacher,perez,Pérez,Sergio,red_bull,Mexican
+1,6,2,Billy Deez Nutz,sainz,Sainz,Carlos,ferrari,Spanish
+13,7,2,Maximum Wildcard,ricciardo,Ricciardo,Daniel,mclaren,Australian
+0,8,2,Ham jam and the Gas man,leclerc,Leclerc,Charles,ferrari,Monegasque
+19,9,3,Ham jam and the Gas man,gasly,Gasly,Pierre,alphatauri,French
+5,10,3,Maximum Wildcard,bottas,Bottas,Valtteri,alfa,Finnish
+8,11,3,Billy Deez Nutz,alonso,Alonso,Fernando,alpine,Spanish
+6,12,3,Ph1 Driver: Gergio Vetomacher,ocon,Ocon,Esteban,alpine,French
+7,14,4,Billy Deez Nutz,tsunoda,Tsunoda,Yuki,alphatauri,Japanese
+11,15,4,Maximum Wildcard,stroll,Stroll,Lance,aston_martin,Canadian
+9,16,4,Ham jam and the Gas man,zhou,Zhou,Guanyu,alfa,Chinese
+15,17,5,Ham jam and the Gas man,latifi,Latifi,Nicholas,williams,Canadian
+4,18,5,Maximum Wildcard,kevin_magnussen,Magnussen,Kevin,haas,Danish
+12,19,5,Billy Deez Nutz,albon,Albon,Alexander,williams,Thai
+10,20,5,Ph1 Driver: Gergio Vetomacher,mick_schumacher,Schumacher,Mick,haas,German
+16,99,99,Ph1 Driver: Gergio Vetomacher,hulkenberg,Hülkenberg,Nico,aston_martin,German
