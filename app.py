@@ -129,7 +129,7 @@ HEADING_DIV = html.Div(id='heading', children=[
 		),
 	dbc.Row(
 		dbc.Col(
-			html.H3('Goodnight-Hosted'),
+			html.H3('Goodnight'),
 			width='auto'),
 		justify='center'),
     ]
