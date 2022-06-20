@@ -1,8 +1,10 @@
 ,CircuitID,CircuitName,Latitude,Longitude,Locality,Country,URL
 0,albert_park,Albert Park Grand Prix Circuit,-37.8497,144.968,Melbourne,Australia,http://en.wikipedia.org/wiki/Melbourne_Grand_Prix_Circuit
 1,bahrain,Bahrain International Circuit,26.0325,50.5106,Sakhir,Bahrain,http://en.wikipedia.org/wiki/Bahrain_International_Circuit
-2,catalunya,Circuit de Barcelona-Catalunya,41.57,2.26111,Montmeló,Spain,http://en.wikipedia.org/wiki/Circuit_de_Barcelona-Catalunya
-3,imola,Autodromo Enzo e Dino Ferrari,44.3439,11.7167,Imola,Italy,http://en.wikipedia.org/wiki/Autodromo_Enzo_e_Dino_Ferrari
-4,jeddah,Jeddah Corniche Circuit,21.6319,39.1044,Jeddah,Saudi Arabia,http://en.wikipedia.org/wiki/Jeddah_Street_Circuit
-5,miami,Miami International Autodrome,25.9581,-80.2389,Miami,USA,http://en.wikipedia.org/wiki/Miami_International_Autodrome
-6,monaco,Circuit de Monaco,43.7347,7.42056,Monte-Carlo,Monaco,http://en.wikipedia.org/wiki/Circuit_de_Monaco
+2,baku,Baku City Circuit,40.3725,49.8533,Baku,Azerbaijan,http://en.wikipedia.org/wiki/Baku_City_Circuit
+3,catalunya,Circuit de Barcelona-Catalunya,41.57,2.26111,Montmeló,Spain,http://en.wikipedia.org/wiki/Circuit_de_Barcelona-Catalunya
+4,imola,Autodromo Enzo e Dino Ferrari,44.3439,11.7167,Imola,Italy,http://en.wikipedia.org/wiki/Autodromo_Enzo_e_Dino_Ferrari
+5,jeddah,Jeddah Corniche Circuit,21.6319,39.1044,Jeddah,Saudi Arabia,http://en.wikipedia.org/wiki/Jeddah_Street_Circuit
+6,miami,Miami International Autodrome,25.9581,-80.2389,Miami,USA,http://en.wikipedia.org/wiki/Miami_International_Autodrome
+7,monaco,Circuit de Monaco,43.7347,7.420560000000001,Monte-Carlo,Monaco,http://en.wikipedia.org/wiki/Circuit_de_Monaco
+8,villeneuve,Circuit Gilles Villeneuve,45.5,-73.5228,Montreal,Canada,http://en.wikipedia.org/wiki/Circuit_Gilles_Villeneuve
