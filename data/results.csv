@@ -1,97 +1,97 @@
 ,RaceID,Position,Points,DriverID,ConstructorID,Grid,Laps,Status,Time,FastestLapTime,FastestLapSpeed
 0,202201,1,26.0,leclerc,ferrari,1,57,Finished,1:37:33.584,1:34.570,206.018
-1,202201,2,18.0,sainz,ferrari,3,57,Finished,+5.598,1:35.740,203.50099999999998
-2,202201,3,15.0,hamilton,mercedes,5,57,Finished,+9.675,1:36.228,202.46900000000002
+1,202201,2,18.0,sainz,ferrari,3,57,Finished,+5.598,1:35.740,203.501
+2,202201,3,15.0,hamilton,mercedes,5,57,Finished,+9.675,1:36.228,202.469
 3,202201,4,12.0,russell,mercedes,9,57,Finished,+11.211,1:36.302,202.313
 4,202201,5,10.0,kevin_magnussen,haas,7,57,Finished,+14.754,1:36.623,201.641
-5,202201,6,8.0,bottas,alfa,6,57,Finished,+16.119,1:36.599,201.69099999999997
+5,202201,6,8.0,bottas,alfa,6,57,Finished,+16.119,1:36.599,201.691
 6,202201,7,6.0,ocon,alpine,11,57,Finished,+19.423,1:37.110,200.63
 7,202201,8,4.0,tsunoda,alphatauri,16,57,Finished,+20.386,1:37.104,200.642
 8,202201,9,2.0,alonso,alpine,8,57,Finished,+22.390,1:36.733,201.412
 9,202201,10,1.0,zhou,alfa,15,57,Finished,+23.064,1:36.685,201.512
-10,202201,11,0.0,mick_schumacher,haas,12,57,Finished,+32.574,1:36.956,200.94799999999998
+10,202201,11,0.0,mick_schumacher,haas,12,57,Finished,+32.574,1:36.956,200.948
 11,202201,12,0.0,stroll,aston_martin,19,57,Finished,+45.873,1:37.146,200.555
 12,202201,13,0.0,albon,williams,14,57,Finished,+53.932,1:37.355,200.125
-13,202201,14,0.0,ricciardo,mclaren,18,57,Finished,+54.975,1:37.261,200.31799999999998
+13,202201,14,0.0,ricciardo,mclaren,18,57,Finished,+54.975,1:37.261,200.318
 14,202201,15,0.0,norris,mclaren,13,57,Finished,+56.335,1:36.988,200.882
 15,202201,16,0.0,latifi,williams,20,57,Finished,+1:01.795,1:38.251,198.3
-16,202201,17,0.0,hulkenberg,aston_martin,17,57,Finished,+1:03.829,1:38.201,198.40099999999998
+16,202201,17,0.0,hulkenberg,aston_martin,17,57,Finished,+1:03.829,1:38.201,198.401
 17,202201,18,0.0,perez,red_bull,4,56,Engine,,1:36.089,202.762
 18,202201,19,0.0,max_verstappen,red_bull,2,54,Steering,,1:35.440,204.14
-19,202201,20,0.0,gasly,alphatauri,10,44,Engine,,1:37.324,200.18900000000002
-20,202202,1,25.0,max_verstappen,red_bull,4,50,Finished,1:24:19.293,1:31.772,242.19099999999997
-21,202202,2,19.0,leclerc,ferrari,2,50,Finished,+0.549,1:31.634,242.55599999999998
-22,202202,3,15.0,sainz,ferrari,3,50,Finished,+8.097,1:31.905,241.84099999999998
+19,202201,20,0.0,gasly,alphatauri,10,44,Engine,,1:37.324,200.189
+20,202202,1,25.0,max_verstappen,red_bull,4,50,Finished,1:24:19.293,1:31.772,242.191
+21,202202,2,19.0,leclerc,ferrari,2,50,Finished,+0.549,1:31.634,242.556
+22,202202,3,15.0,sainz,ferrari,3,50,Finished,+8.097,1:31.905,241.841
 23,202202,4,12.0,perez,red_bull,1,50,Finished,+10.800,1:32.042,241.481
 24,202202,5,10.0,russell,mercedes,6,50,Finished,+32.732,1:32.821,239.454
 25,202202,6,8.0,ocon,alpine,5,50,Finished,+56.017,1:33.103,238.729
-26,202202,7,6.0,norris,mclaren,11,50,Finished,+56.124,1:32.753,239.62900000000002
+26,202202,7,6.0,norris,mclaren,11,50,Finished,+56.124,1:32.753,239.629
 27,202202,8,4.0,gasly,alphatauri,9,50,Finished,+1:02.946,1:33.468,237.796
 28,202202,9,2.0,kevin_magnussen,haas,10,50,Finished,+1:04.308,1:32.779,239.562
-29,202202,10,1.0,hamilton,mercedes,15,50,Finished,+1:13.948,1:32.997,239.00099999999998
+29,202202,10,1.0,hamilton,mercedes,15,50,Finished,+1:13.948,1:32.997,239.001
 30,202202,11,0.0,zhou,alfa,12,50,Finished,+1:22.215,1:33.924,236.642
 31,202202,12,0.0,hulkenberg,aston_martin,17,50,Finished,+1:31.742,1:33.651,237.332
 32,202202,13,0.0,stroll,aston_martin,13,49,+1 Lap,,1:34.446,235.334
 33,202202,14,0.0,albon,williams,16,47,Collision,,1:34.368,235.528
 34,202202,15,0.0,bottas,alfa,8,36,Mechanical,,1:33.979,236.503
-35,202202,16,0.0,alonso,alpine,7,35,Engine,,1:33.831,236.87599999999998
+35,202202,16,0.0,alonso,alpine,7,35,Engine,,1:33.831,236.876
 36,202202,17,0.0,ricciardo,mclaren,14,35,Clutch,,1:34.487,235.232
 37,202202,18,0.0,latifi,williams,18,14,Accident,,1:37.530,227.892
 38,202202,19,0.0,tsunoda,alphatauri,19,0,Power Unit,,,
 39,202202,20,0.0,mick_schumacher,haas,0,0,Withdrew,,,
 40,202203,1,26.0,leclerc,ferrari,1,58,Finished,1:27:46.548,1:20.260,236.74
 41,202203,2,18.0,perez,red_bull,3,58,Finished,+20.524,1:21.094,234.305
-42,202203,3,15.0,russell,mercedes,6,58,Finished,+25.593,1:21.495,233.152
-43,202203,4,12.0,hamilton,mercedes,5,58,Finished,+28.543,1:21.886,232.039
+42,202203,3,15.0,russell,mercedes,6,58,Finished,+25.593,1:21.495,233.15200000000002
+43,202203,4,12.0,hamilton,mercedes,5,58,Finished,+28.543,1:21.886,232.03900000000002
 44,202203,5,10.0,norris,mclaren,4,58,Finished,+53.303,1:22.248,231.018
 45,202203,6,8.0,ricciardo,mclaren,7,58,Finished,+53.737,1:22.451,230.449
 46,202203,7,6.0,ocon,alpine,8,58,Finished,+1:01.683,1:22.469,230.399
 47,202203,8,4.0,bottas,alfa,12,58,Finished,+1:08.439,1:21.651,232.707
 48,202203,9,2.0,gasly,alphatauri,11,58,Finished,+1:16.221,1:22.731,229.669
-49,202203,10,1.0,albon,williams,20,58,Finished,+1:19.382,1:22.589,230.064
-50,202203,11,0.0,zhou,alfa,14,58,Finished,+1:21.695,1:22.541,230.198
+49,202203,10,1.0,albon,williams,20,58,Finished,+1:19.382,1:22.589,230.06400000000002
+50,202203,11,0.0,zhou,alfa,14,58,Finished,+1:21.695,1:22.541,230.19799999999998
 51,202203,12,0.0,stroll,aston_martin,19,58,Finished,+1:28.598,1:23.592,227.304
 52,202203,13,0.0,mick_schumacher,haas,15,57,+1 Lap,,1:23.006,228.908
 53,202203,14,0.0,kevin_magnussen,haas,16,57,+1 Lap,,1:23.071,228.729
 54,202203,15,0.0,tsunoda,alphatauri,13,57,+1 Lap,,1:23.342,227.985
 55,202203,16,0.0,latifi,williams,18,57,+1 Lap,,1:23.882,226.518
 56,202203,17,0.0,alonso,alpine,10,57,+1 Lap,,1:20.846,235.024
-57,202203,18,0.0,max_verstappen,red_bull,2,38,Hydraulics,,1:21.677,232.633
+57,202203,18,0.0,max_verstappen,red_bull,2,38,Hydraulics,,1:21.677,232.63299999999998
 58,202203,19,0.0,vettel,aston_martin,17,22,Accident,,1:25.189,223.042
 59,202203,20,0.0,sainz,ferrari,9,1,Spun off,,,
-60,202204,1,26.0,max_verstappen,red_bull,1,63,Finished,1:32:07.986,1:18.446,225.28099999999998
+60,202204,1,26.0,max_verstappen,red_bull,1,63,Finished,1:32:07.986,1:18.446,225.281
 61,202204,2,18.0,perez,red_bull,3,63,Finished,+16.527,1:18.949,223.845
-62,202204,3,15.0,norris,mclaren,5,63,Finished,+34.834,1:20.903,218.43900000000002
+62,202204,3,15.0,norris,mclaren,5,63,Finished,+34.834,1:20.903,218.439
 63,202204,4,12.0,russell,mercedes,11,63,Finished,+42.506,1:20.962,218.28
 64,202204,5,10.0,bottas,alfa,7,63,Finished,+43.181,1:20.758,218.831
-65,202204,6,8.0,leclerc,ferrari,2,63,Finished,+56.072,1:18.574,224.91400000000002
+65,202204,6,8.0,leclerc,ferrari,2,63,Finished,+56.072,1:18.574,224.914
 66,202204,7,6.0,tsunoda,alphatauri,12,63,Finished,+1:01.110,1:20.544,219.412
 67,202204,8,4.0,vettel,aston_martin,13,63,Finished,+1:10.892,1:21.211,217.61
-68,202204,9,2.0,kevin_magnussen,haas,8,63,Finished,+1:15.260,1:21.238,217.53799999999998
+68,202204,9,2.0,kevin_magnussen,haas,8,63,Finished,+1:15.260,1:21.238,217.538
 69,202204,10,1.0,stroll,aston_martin,15,62,+1 Lap,,1:21.750,216.176
 70,202204,11,0.0,albon,williams,18,62,+1 Lap,,1:21.757,216.157
 71,202204,12,0.0,gasly,alphatauri,17,62,+1 Lap,,1:21.713,216.274
 72,202204,13,0.0,hamilton,mercedes,14,62,+1 Lap,,1:21.419,217.054
-73,202204,14,0.0,ocon,alpine,16,62,+1 Lap,,1:21.887,215.81400000000002
+73,202204,14,0.0,ocon,alpine,16,62,+1 Lap,,1:21.887,215.814
 74,202204,15,0.0,zhou,alfa,0,62,+1 Lap,,1:21.286,217.41
 75,202204,16,0.0,latifi,williams,19,62,+1 Lap,,1:21.338,217.271
 76,202204,17,0.0,mick_schumacher,haas,10,62,+1 Lap,,1:18.999,223.704
-77,202204,18,0.0,ricciardo,mclaren,6,62,+1 Lap,,1:21.577,216.63400000000001
+77,202204,18,0.0,ricciardo,mclaren,6,62,+1 Lap,,1:21.577,216.634
 78,202204,19,0.0,alonso,alpine,9,6,Chassis,,1:39.685,177.282
 79,202204,20,0.0,sainz,ferrari,4,0,Collision,,,
 80,202205,1,26.0,max_verstappen,red_bull,3,57,Finished,1:34:24.258,1:31.361,213.255
 81,202205,2,18.0,leclerc,ferrari,1,57,Finished,+3.786,1:31.488,212.959
-82,202205,3,15.0,sainz,ferrari,2,57,Finished,+8.229,1:31.790,212.25799999999998
-83,202205,4,12.0,perez,red_bull,4,57,Finished,+10.638,1:31.819,212.19099999999997
+82,202205,3,15.0,sainz,ferrari,2,57,Finished,+8.229,1:31.790,212.258
+83,202205,4,12.0,perez,red_bull,4,57,Finished,+10.638,1:31.819,212.191
 84,202205,5,10.0,russell,mercedes,12,57,Finished,+18.582,1:32.195,211.325
-85,202205,6,8.0,hamilton,mercedes,6,57,Finished,+21.368,1:32.941,209.62900000000002
+85,202205,6,8.0,hamilton,mercedes,6,57,Finished,+21.368,1:32.941,209.629
 86,202205,7,6.0,bottas,alfa,5,57,Finished,+25.073,1:33.184,209.083
 87,202205,8,4.0,ocon,alpine,20,57,Finished,+28.386,1:33.163,209.13
 88,202205,9,2.0,albon,williams,18,57,Finished,+32.365,1:33.447,208.49400000000003
 89,202205,10,1.0,stroll,aston_martin,0,57,Finished,+37.026,1:33.312,208.796
 90,202205,11,0.0,alonso,alpine,11,57,Finished,+37.128,1:33.331,208.753
 91,202205,12,0.0,tsunoda,alphatauri,9,57,Finished,+40.146,1:33.035,209.417
-92,202205,13,0.0,ricciardo,mclaren,14,57,Finished,+40.902,1:33.265,208.90099999999998
+92,202205,13,0.0,ricciardo,mclaren,14,57,Finished,+40.902,1:33.265,208.901
 93,202205,14,0.0,latifi,williams,19,57,Finished,+49.936,1:34.169,206.896
 94,202205,15,0.0,mick_schumacher,haas,15,57,Finished,+1:13.305,1:32.528,210.565
 95,202205,16,0.0,kevin_magnussen,haas,16,56,Front wing,,1:33.511,208.351
@@ -99,30 +99,30 @@
 97,202205,18,0.0,gasly,alphatauri,7,45,Suspension,,1:34.487,206.199
 98,202205,19,0.0,norris,mclaren,8,39,Collision,,1:33.411,208.575
 99,202205,20,0.0,zhou,alfa,17,6,Water leak,,1:35.731,203.52
-100,202206,1,25.0,max_verstappen,red_bull,2,66,Finished,1:37:20.475,1:25.456,196.943
-101,202206,2,19.0,perez,red_bull,5,66,Finished,+13.072,1:24.108,200.099
+100,202206,1,25.0,max_verstappen,red_bull,2,66,Finished,1:37:20.475,1:25.456,196.94299999999998
+101,202206,2,19.0,perez,red_bull,5,66,Finished,+13.072,1:24.108,200.09900000000002
 102,202206,3,15.0,russell,mercedes,4,66,Finished,+32.927,1:24.636,198.851
 103,202206,4,12.0,sainz,ferrari,3,66,Finished,+45.208,1:25.985,195.731
 104,202206,5,10.0,hamilton,mercedes,6,66,Finished,+54.534,1:24.253,199.755
-105,202206,6,8.0,bottas,alfa,7,66,Finished,+59.976,1:26.395,194.802
+105,202206,6,8.0,bottas,alfa,7,66,Finished,+59.976,1:26.395,194.80200000000002
 106,202206,7,6.0,ocon,alpine,12,66,Finished,+1:15.397,1:25.935,195.845
-107,202206,8,4.0,norris,mclaren,11,66,Finished,+1:23.235,1:25.619,196.568
-108,202206,9,2.0,alonso,alpine,20,65,+1 Lap,,1:26.599,194.344
+107,202206,8,4.0,norris,mclaren,11,66,Finished,+1:23.235,1:25.619,196.56799999999998
+108,202206,9,2.0,alonso,alpine,20,65,+1 Lap,,1:26.599,194.34400000000002
 109,202206,10,1.0,tsunoda,alphatauri,13,65,+1 Lap,,1:26.828,193.831
 110,202206,11,0.0,vettel,aston_martin,16,65,+1 Lap,,1:27.629,192.05900000000003
-111,202206,12,0.0,ricciardo,mclaren,9,65,+1 Lap,,1:27.285,192.816
+111,202206,12,0.0,ricciardo,mclaren,9,65,+1 Lap,,1:27.285,192.81599999999997
 112,202206,13,0.0,gasly,alphatauri,14,65,+1 Lap,,1:26.987,193.477
 113,202206,14,0.0,mick_schumacher,haas,10,65,+1 Lap,,1:27.447,192.459
-114,202206,15,0.0,stroll,aston_martin,17,65,+1 Lap,,1:26.876,193.724
-115,202206,16,0.0,latifi,williams,19,64,+2 Laps,,1:27.246,192.902
+114,202206,15,0.0,stroll,aston_martin,17,65,+1 Lap,,1:26.876,193.72400000000002
+115,202206,16,0.0,latifi,williams,19,64,+2 Laps,,1:27.246,192.90200000000002
 116,202206,17,0.0,kevin_magnussen,haas,8,64,+2 Laps,,1:27.537,192.261
 117,202206,18,0.0,albon,williams,18,64,+2 Laps,,1:28.281,190.641
 118,202206,19,0.0,zhou,alfa,15,28,Power Unit,,1:28.415,190.352
-119,202206,20,0.0,leclerc,ferrari,1,27,Power Unit,,1:27.030,193.381
+119,202206,20,0.0,leclerc,ferrari,1,27,Power Unit,,1:27.030,193.38099999999997
 120,202207,1,25.0,perez,red_bull,3,64,Finished,1:56:30.265,1:16.028,158.01
 121,202207,2,18.0,sainz,ferrari,2,64,Finished,+1.154,1:16.421,157.197
 122,202207,3,15.0,max_verstappen,red_bull,4,64,Finished,+1.491,1:16.052,157.96
-123,202207,4,12.0,leclerc,ferrari,1,64,Finished,+2.922,1:16.249,157.55200000000002
+123,202207,4,12.0,leclerc,ferrari,1,64,Finished,+2.922,1:16.249,157.55200000000005
 124,202207,5,10.0,russell,mercedes,6,64,Finished,+11.968,1:16.830,156.36
 125,202207,6,9.0,norris,mclaren,5,64,Finished,+12.231,1:14.693,160.834
 126,202207,7,6.0,alonso,alpine,7,64,Finished,+46.358,1:15.882,158.314
@@ -130,7 +130,7 @@
 128,202207,9,2.0,bottas,alfa,12,64,Finished,+52.525,1:17.600,154.809
 129,202207,10,1.0,vettel,aston_martin,9,64,Finished,+53.536,1:17.558,154.893
 130,202207,11,0.0,gasly,alphatauri,17,64,Finished,+54.289,1:17.344,155.321
-131,202207,12,0.0,ocon,alpine,10,64,Finished,+55.644,1:17.571,154.86700000000002
+131,202207,12,0.0,ocon,alpine,10,64,Finished,+55.644,1:17.571,154.86700000000005
 132,202207,13,0.0,ricciardo,mclaren,14,64,Finished,+57.635,1:17.532,154.945
 133,202207,14,0.0,stroll,aston_martin,18,64,Finished,+1:00.802,1:17.672,154.665
 134,202207,15,0.0,latifi,williams,19,63,+1 Lap,,1:18.579,152.88
@@ -139,38 +139,38 @@
 137,202207,18,0.0,albon,williams,16,48,Mechanical,,1:18.023,153.969
 138,202207,19,0.0,mick_schumacher,haas,15,24,Accident,,1:24.778,141.701
 139,202207,20,0.0,kevin_magnussen,haas,13,19,Water pressure,,1:33.754,128.135
-140,202208,1,25.0,max_verstappen,red_bull,3,51,Finished,1:34:05.941,1:46.050,203.779
+140,202208,1,25.0,max_verstappen,red_bull,3,51,Finished,1:34:05.941,1:46.050,203.77900000000002
 141,202208,2,19.0,perez,red_bull,2,51,Finished,+20.823,1:46.046,203.787
 142,202208,3,15.0,russell,mercedes,5,51,Finished,+45.995,1:47.177,201.636
 143,202208,4,12.0,hamilton,mercedes,7,51,Finished,+1:11.679,1:47.044,201.887
 144,202208,5,10.0,gasly,alphatauri,6,51,Finished,+1:17.299,1:48.519,199.143
-145,202208,6,8.0,vettel,aston_martin,9,51,Finished,+1:24.099,1:48.206,199.719
-146,202208,7,6.0,alonso,alpine,10,51,Finished,+1:28.596,1:47.989,200.120
-147,202208,8,4.0,ricciardo,mclaren,12,51,Finished,+1:32.207,1:48.276,199.589
+145,202208,6,8.0,vettel,aston_martin,9,51,Finished,+1:24.099,1:48.206,199.71900000000002
+146,202208,7,6.0,alonso,alpine,10,51,Finished,+1:28.596,1:47.989,200.12
+147,202208,8,4.0,ricciardo,mclaren,12,51,Finished,+1:32.207,1:48.276,199.58900000000003
 148,202208,9,2.0,norris,mclaren,11,51,Finished,+1:32.556,1:47.997,200.105
 149,202208,10,1.0,ocon,alpine,13,51,Finished,+1:48.184,1:48.297,199.551
 150,202208,11,0.0,bottas,alfa,15,50,+1 Lap,,1:48.179,199.768
-151,202208,12,0.0,albon,williams,17,50,+1 Lap,,1:47.966,200.163
+151,202208,12,0.0,albon,williams,17,50,+1 Lap,,1:47.966,200.16299999999998
 152,202208,13,0.0,tsunoda,alphatauri,8,50,+1 Lap,,1:47.523,200.987
 153,202208,14,0.0,mick_schumacher,haas,20,50,+1 Lap,,1:48.410,199.343
 154,202208,15,0.0,latifi,williams,18,50,+1 Lap,,1:49.583,197.209
-155,202208,16,0.0,stroll,aston_martin,19,46,Vibrations,,1:48.038,200.029
+155,202208,16,0.0,stroll,aston_martin,19,46,Vibrations,,1:48.038,200.02900000000002
 156,202208,17,0.0,kevin_magnussen,haas,16,31,Power Unit,,1:48.789,198.648
 157,202208,18,0.0,zhou,alfa,14,23,Technical,,1:48.723,198.769
 158,202208,19,0.0,leclerc,ferrari,1,21,Power Unit,,1:47.531,200.972
 159,202208,20,0.0,sainz,ferrari,4,8,Brakes,,1:48.978,198.304
 160,202209,1,25.0,max_verstappen,red_bull,1,70,Finished,1:36:21.757,1:15.839,207.012
-161,202209,2,19.0,sainz,ferrari,3,70,Finished,+0.993,1:15.749,207.258
-162,202209,3,15.0,hamilton,mercedes,4,70,Finished,+7.006,1:16.167,206.120
-163,202209,4,12.0,russell,mercedes,8,70,Finished,+12.313,1:16.418,205.443
+161,202209,2,19.0,sainz,ferrari,3,70,Finished,+0.993,1:15.749,207.25799999999998
+162,202209,3,15.0,hamilton,mercedes,4,70,Finished,+7.006,1:16.167,206.12
+163,202209,4,12.0,russell,mercedes,8,70,Finished,+12.313,1:16.418,205.44299999999998
 164,202209,5,10.0,leclerc,ferrari,19,70,Finished,+15.168,1:15.901,206.843
-165,202209,6,8.0,ocon,alpine,7,70,Finished,+23.890,1:17.110,203.600
+165,202209,6,8.0,ocon,alpine,7,70,Finished,+23.890,1:17.110,203.6
 166,202209,7,6.0,alonso,alpine,2,70,Finished,+24.945,1:17.010,203.864
 167,202209,8,4.0,bottas,alfa,11,70,Finished,+25.247,1:16.927,204.084
 168,202209,9,2.0,zhou,alfa,10,70,Finished,+26.952,1:16.578,205.014
 169,202209,10,1.0,stroll,aston_martin,17,70,Finished,+38.222,1:17.421,202.782
 170,202209,11,0.0,ricciardo,mclaren,9,70,Finished,+43.047,1:17.932,201.452
-171,202209,12,0.0,vettel,aston_martin,16,70,Finished,+44.245,1:17.956,201.390
+171,202209,12,0.0,vettel,aston_martin,16,70,Finished,+44.245,1:17.956,201.39
 172,202209,13,0.0,albon,williams,12,70,Finished,+44.893,1:17.951,201.403
 173,202209,14,0.0,gasly,alphatauri,15,70,Finished,+45.183,1:17.810,201.768
 174,202209,15,0.0,norris,mclaren,14,70,Finished,+52.145,1:17.495,202.588
@@ -179,3 +179,23 @@
 177,202209,18,0.0,tsunoda,alphatauri,20,47,Accident,,1:18.309,200.482
 178,202209,19,0.0,mick_schumacher,haas,6,18,Engine,,1:18.967,198.812
 179,202209,20,0.0,perez,red_bull,13,7,Gearbox,,1:18.844,199.122
+180,202210,1,25.0,sainz,ferrari,1,52,Finished,2:17:50.311,1:30.813,233.530
+181,202210,2,18.0,perez,red_bull,4,52,Finished,+3.779,1:30.937,233.212
+182,202210,3,16.0,hamilton,mercedes,5,52,Finished,+6.225,1:30.510,234.312
+183,202210,4,12.0,leclerc,ferrari,3,52,Finished,+8.546,1:31.282,232.330
+184,202210,5,10.0,alonso,alpine,7,52,Finished,+9.571,1:31.609,231.501
+185,202210,6,8.0,norris,mclaren,6,52,Finished,+11.943,1:31.645,231.410
+186,202210,7,6.0,max_verstappen,red_bull,2,52,Finished,+18.777,1:32.354,229.633
+187,202210,8,4.0,mick_schumacher,haas,19,52,Finished,+18.995,1:32.109,230.244
+188,202210,9,2.0,vettel,aston_martin,18,52,Finished,+22.356,1:32.471,229.343
+189,202210,10,1.0,kevin_magnussen,haas,17,52,Finished,+24.590,1:32.661,228.872
+190,202210,11,0.0,stroll,aston_martin,20,52,Finished,+26.147,1:32.379,229.571
+191,202210,12,0.0,latifi,williams,10,52,Finished,+32.511,1:33.286,227.339
+192,202210,13,0.0,ricciardo,mclaren,14,52,Finished,+32.817,1:32.644,228.914
+193,202210,14,0.0,tsunoda,alphatauri,13,52,Finished,+40.910,1:33.832,226.016
+194,202210,15,0.0,ocon,alpine,15,37,Fuel pump,,1:33.537,226.729
+195,202210,16,0.0,gasly,alphatauri,11,26,Collision damage,,1:34.614,224.148
+196,202210,17,0.0,bottas,alfa,12,20,Gearbox,,1:35.103,222.996
+197,202210,18,0.0,russell,mercedes,8,0,Collision,,,
+198,202210,19,0.0,zhou,alfa,9,0,Collision,,,
+199,202210,20,0.0,albon,williams,16,0,Collision,,,
