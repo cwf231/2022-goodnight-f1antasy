@@ -3,11 +3,13 @@
 1,bahrain,Bahrain International Circuit,26.0325,50.5106,Sakhir,Bahrain,http://en.wikipedia.org/wiki/Bahrain_International_Circuit
 2,baku,Baku City Circuit,40.3725,49.8533,Baku,Azerbaijan,http://en.wikipedia.org/wiki/Baku_City_Circuit
 3,catalunya,Circuit de Barcelona-Catalunya,41.57,2.26111,Montmeló,Spain,http://en.wikipedia.org/wiki/Circuit_de_Barcelona-Catalunya
-4,imola,Autodromo Enzo e Dino Ferrari,44.3439,11.7167,Imola,Italy,http://en.wikipedia.org/wiki/Autodromo_Enzo_e_Dino_Ferrari
-5,jeddah,Jeddah Corniche Circuit,21.6319,39.1044,Jeddah,Saudi Arabia,http://en.wikipedia.org/wiki/Jeddah_Street_Circuit
-6,miami,Miami International Autodrome,25.9581,-80.2389,Miami,USA,http://en.wikipedia.org/wiki/Miami_International_Autodrome
-7,monaco,Circuit de Monaco,43.7347,7.42056,Monte-Carlo,Monaco,http://en.wikipedia.org/wiki/Circuit_de_Monaco
-8,red_bull_ring,Red Bull Ring,47.2197,14.7647,Spielberg,Austria,http://en.wikipedia.org/wiki/Red_Bull_Ring
-9,ricard,Circuit Paul Ricard,43.2506,5.79167,Le Castellet,France,http://en.wikipedia.org/wiki/Paul_Ricard_Circuit
-10,silverstone,Silverstone Circuit,52.0786,-1.01694,Silverstone,UK,http://en.wikipedia.org/wiki/Silverstone_Circuit
-11,villeneuve,Circuit Gilles Villeneuve,45.5,-73.5228,Montreal,Canada,http://en.wikipedia.org/wiki/Circuit_Gilles_Villeneuve
+4,hungaroring,Hungaroring,47.5789,19.2486,Budapest,Hungary,http://en.wikipedia.org/wiki/Hungaroring
+5,imola,Autodromo Enzo e Dino Ferrari,44.3439,11.7167,Imola,Italy,http://en.wikipedia.org/wiki/Autodromo_Enzo_e_Dino_Ferrari
+6,jeddah,Jeddah Corniche Circuit,21.6319,39.1044,Jeddah,Saudi Arabia,http://en.wikipedia.org/wiki/Jeddah_Street_Circuit
+7,miami,Miami International Autodrome,25.9581,-80.2389,Miami,USA,http://en.wikipedia.org/wiki/Miami_International_Autodrome
+8,monaco,Circuit de Monaco,43.7347,7.42056,Monte-Carlo,Monaco,http://en.wikipedia.org/wiki/Circuit_de_Monaco
+9,red_bull_ring,Red Bull Ring,47.2197,14.7647,Spielberg,Austria,http://en.wikipedia.org/wiki/Red_Bull_Ring
+10,ricard,Circuit Paul Ricard,43.2506,5.79167,Le Castellet,France,http://en.wikipedia.org/wiki/Paul_Ricard_Circuit
+11,silverstone,Silverstone Circuit,52.0786,-1.01694,Silverstone,UK,http://en.wikipedia.org/wiki/Silverstone_Circuit
+12,spa,Circuit de Spa-Francorchamps,50.4372,5.97139,Spa,Belgium,http://en.wikipedia.org/wiki/Circuit_de_Spa-Francorchamps
+13,villeneuve,Circuit Gilles Villeneuve,45.5,-73.5228,Montreal,Canada,http://en.wikipedia.org/wiki/Circuit_Gilles_Villeneuve
